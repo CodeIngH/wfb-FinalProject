@@ -12,6 +12,7 @@ nav {
         width: 100vw;
         top: 0;
         z-index: 999;
+        
 }
 h1{
   text-align: center;
@@ -140,20 +141,13 @@ div a {
   text-align: center;
   z-index: 1;
 }
-#logo:hover{
-  font-size: 1.5em;
-  color: #fff;
- }
+
 
 #top ul{
-  /* background-color: black;
+  background-color: black;
   text-align: center;
   position: sticky;
-  z-index: 1; */
-  text-align: center;
-  position: sticky;
-  width: 100%;
-  background-image: linear-gradient(to bottom right, rgb(106, 226, 226,.1), black);
+  z-index: 1;
 }
 
 p{
@@ -163,3 +157,4 @@ p{
 
 
 
+.hello {display: none}
